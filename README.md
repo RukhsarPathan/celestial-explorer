@@ -12,7 +12,7 @@ A visually rich, interactive web app that lets users explore all 8 planets in ou
 
 ## 🖼️ Screenshot
 
-![Celestial Explorer Screenshot](images/Screenshot.png)
+![Celestial Explorer Screenshot](Images/Screenshot.png)
 
 
 ---
