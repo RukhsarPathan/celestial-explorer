@@ -12,7 +12,7 @@ A visually rich, interactive web app that lets users explore all 8 planets in ou
 
 ## 🖼️ Screenshot
 
-![Celestial Explorer Screenshot](images/screenshot.png)
+![Celestial Explorer Screenshot](images/Screenshot.png)
 
 > Replace `images/screenshot.png` with the actual path to your screenshot file inside your project. Upload the image, commit it, and make sure the path is correct.
 
